@@ -39,9 +39,20 @@ Project team members will connect with git repository using URL.
 <ul>
      <li><h4> Working Tree</h4></li>
       <li><h4>Staging Area</h4></li>
-      <li><h4>local Repo</h4></li>
-      <li><h4>Central Repo(remote)</h4></li>
-</ul>
+      <li><h4>local Report</h4></li>
+      <li><h4>Central Repo(Remote)</h4></li>
+</ul> 
+<h1>Basic commands in git</h1>
+<h2>git init : </h2><P>It is used to initialize the folder as a working tree</P><br>
+
+<h2>git add : </h2><p>It is used to add a files to the folder</p><br>
+
+<h2>git commit : </h2> <p> It is used to commit the files from staging area to local report </p><br>
+
+<h2>git remote.add : </h2><p>It is used to send the files from local report to central Repo</p>
+
+<h2>git.push :</h2><p>It is used to push files from local to central repo </p>
+
 
 </p>
 
