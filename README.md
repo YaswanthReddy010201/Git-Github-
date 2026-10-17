@@ -22,12 +22,14 @@ Environment Setup
 3) Open Git bash and configure your name and your email
 -------------------------------------------------------------
  $ git config -- global user.name "your name"
+ <br>
  $ git config --global user.email "your-email
 ------------------------------------------------------------
 
 Note : Configuring name and email is just one time process
 Repository is a place where we can store project source code/ files.
 for every project one repository will be created
+
 
 
 
