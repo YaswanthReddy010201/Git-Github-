@@ -24,10 +24,8 @@ Environment Setup
 <br>
 5) Open Git bash and configure your name and your email
 <br>
--------------------------------------------------------------
- $ git config -- global user.name "your name"
- $ git config --global user.email "your-email"
-------------------------------------------------------------
+ <h2>$ git config -- global user.name "your name"</h2>h2>
+ <h2>$ git config --global user.email "your-email"</h2>
 <br>
 
 Note : Configuring name and email is just one time process
