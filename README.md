@@ -52,6 +52,8 @@ Project team members will connect with git repository using URL.
 <h2>git remote.add : </h2><p>It is used to send the files from local report to central Repo</p>
 
 <h2>git.push :</h2><p>It is used to push files from local to central repo </p>
+<h2>clear :</h2><p>It is used to clean the ternimal</p>
+
 
 
 </p>
