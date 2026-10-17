@@ -33,8 +33,15 @@ for every project one repository will be created<br>
 1) Public Repo (anybody can see & you can choose who can commit)
 2) Private repo (you choose who can see & who can commit)
 
-@ @Project Git repo URL : https://github.com/YaswanthReddy010201/Git-Github-/edit/main/README.md
+@ @ Project Git repo URL : https://github.com/YaswanthReddy010201/Git-Github-/edit/main/README.md
 Project team members will connect with git repository using URL.
+<h2>git Architecture</h2>
+<li>
+      Working Tree
+      Staging Area
+      local Repo
+      Central Repo(remote)
+</li>
 
 </p>
 
