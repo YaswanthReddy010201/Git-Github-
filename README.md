@@ -18,12 +18,9 @@ Git Hub repository will monitor all code changes
       - why modified
 
 Environment Setup
-1) create a account in Git Hub
-<br>
-2) Download and install the Git clint software in our system
-<br>
-3) Open Git bash and configure your name and your email
-<br>
+1) create a account in Git Hub<br>
+2) Download and install the Git clint software in our system<br>
+3) Open Git bash and configure your name and your email<br>
  <h2>$ git config -- global user.name "your name"</h2>
  <h2>$ git config --global user.email "your-email"</h2>
 <br>
