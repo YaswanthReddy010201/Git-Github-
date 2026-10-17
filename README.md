@@ -7,10 +7,10 @@ Author- yaswanth
 => It is version control software
 <br>
 <h1>Git Hub</h1>
-=> It is a platform which is used to store project related files/ source code
--> in git hub, we can create a source code repository to store project code
+<p>It is a platform which is used to store project related files/ source code
+in git hub, we can create a source code repository to store project code
 All the developers can connect to project repository to store all source code 
-Git Hub repository will monitor all code changes
+Git Hub repository will monitor all code changes</p>
 
       - who modified
       - when modified
