@@ -30,7 +30,12 @@ Git Hub repository will monitor all code changes
 Repository is a place where we can store project source code/ files.<br>
 for every project one repository will be created<br>
 <p>
-      
+1) Public Repo (anybody can see & you can choose who can commit)
+2) Private repo (you choose who can see & who can commit)
+
+@ @Project Git repo URL : https://github.com/YaswanthReddy010201/Git-Github-/edit/main/README.md
+Project team members will connect with git repository using URL.
+
 </p>
 
 
