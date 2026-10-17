@@ -17,7 +17,7 @@ Git Hub repository will monitor all code changes
       - what modified
       - why modified
 
-Environment Setup
+<h2>Environment Setup</h2>
 1) create a account in Git Hub<br>
 2) Download and install the Git clint software in our system<br>
 3) Open Git bash and configure your name and your email<br>
