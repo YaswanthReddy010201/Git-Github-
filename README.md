@@ -3,10 +3,10 @@ Full Git-Github course
 <br>
 Author- yaswanth
 
-Git
+<h1>Git</h1>
 => It is version control software
 <br>
-Git Hub
+<h1>Git Hub</h1>
 => It is a platform which is used to store project related files/ source code
 -> in git hub, we can create a source code repository to store project code
 All the developers can connect to project repository to store all source code 
@@ -27,10 +27,11 @@ Environment Setup
 
 <h5>Note : Configuring name and email is just one time process</h5>
 <br>
-Repository is a place where we can store project source code/ files.
-<br>
-for every project one repository will be created
-<br>
+Repository is a place where we can store project source code/ files.<br>
+for every project one repository will be created<br>
+<p>
+      
+</p>
 
 
 
