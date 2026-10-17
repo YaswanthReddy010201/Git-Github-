@@ -23,11 +23,12 @@ Environment Setup
 3) Download and install the Git clint software in our system
 <br>
 5) Open Git bash and configure your name and your email
+<br>
 -------------------------------------------------------------
  $ git config -- global user.name "your name"
- <br>
  $ git config --global user.email "your-email"
 ------------------------------------------------------------
+<br>
 
 Note : Configuring name and email is just one time process
 <br>
