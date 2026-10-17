@@ -36,12 +36,12 @@ for every project one repository will be created<br>
 @ @ Project Git repo URL : https://github.com/YaswanthReddy010201/Git-Github-/edit/main/README.md
 Project team members will connect with git repository using URL.
 <h2>git Architecture</h2>
-<li>
+<ul>
       Working Tree
       Staging Area
       local Repo
       Central Repo(remote)
-</li>
+</ul>
 
 </p>
 
