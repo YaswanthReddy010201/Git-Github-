@@ -44,7 +44,7 @@ Project team members will connect with git repository using URL.
 </ul> 
 <h1>Basic commands in git</h1>
 <h2>git init : </h2><P>It is used to initialize the folder as a working tree</P><br>
-
+<h2>git status : </h2><p>It is used for display files status(stated and un-staged </p>
 <h2>git add : </h2><p>It is used to add a files to the folder</p><br>
 
 <h2>git commit : </h2> <p> It is used to commit the files from staging area to local report </p><br>
