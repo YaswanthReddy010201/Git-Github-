@@ -7,13 +7,13 @@ Author- yaswanth
 => It is version control software
 <br>
 <h1>Git Hub</h1>
-=> It is a platform which is used to store project related files/ source code
--> in git hub, we can create a source code repository to store project code
+<p>It is a platform which is used to store project related files/ source code
+in git hub, we can create a source code repository to store project code
 All the developers can connect to project repository to store all source code 
-Git Hub repository will monitor all code changes
+Git Hub repository will monitor all code changes</p>
 
       - who modified
-      - when modified
+      - when modified"
       - what modified
       - why modified
 
@@ -43,15 +43,18 @@ Project team members will connect with git repository using URL.
       <li><h4>Central Repo(Remote)</h4></li>
 </ul> 
 <h1>Basic commands in git</h1>
+<h2>echo "# folder_name" >> file name</h2><p>It is used to create a new file </p>
 <h2>git init : </h2><P>It is used to initialize the folder as a working tree</P><br>
-
+<h2>git status : </h2><p>It is used for display files status(stated and un-staged </p>
 <h2>git add : </h2><p>It is used to add a files to the folder</p><br>
 
-<h2>git commit : </h2> <p> It is used to commit the files from staging area to local report </p><br>
+<h2>git commit : </h2> <p> It is used to commit the files from staging area to local report </p><br><h4> git commit -m <msg></h4>
 
-<h2>git remote.add : </h2><p>It is used to send the files from local report to central Repo</p>
-
+<h2>git remote.add : </h2><p>It is used to send the files from local report to central Repo  It is used the URL of Repo</p>
+<h2>EX=> git remort.add https://github.com/YaswanthReddy010201/Git-Github-/edit/main/README.md</h2>
 <h2>git.push :</h2><p>It is used to push files from local to central repo </p>
+<h2>clear :</h2><p>It is used to clean the ternimal</p>
+
 
 
 </p>
