@@ -54,6 +54,7 @@ Project team members will connect with git repository using URL.
 <h2>EX=> git remort.add https://github.com/YaswanthReddy010201/Git-Github-/edit/main/README.md</h2>
 <h2>git.push :</h2><p>It is used to push files from local to central repo </p>
 <h2>clear :</h2><p>It is used to clean the ternimal</p>
+<h2> touch file name</h2> <p>It is used to create a new file</p>
 
 
 
