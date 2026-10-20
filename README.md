@@ -79,8 +79,8 @@ EX:
 <h1>Imp</h1>
 <p>If two developers working in same first we want see the latest code so we will pull before push if the conflict is accrued while pull resolve the conflict (junk is add to the code remove it)  is  and use push </p>
 <P> Conflict accrued only when two are more people working in same page and same line only it accrued. Author vise we won't get any conflict </P>
-<h2>git gui</h2> <p>It will open a window to perform a operations</p>
-
+<h2>git gui</h2> <p>It is a desktop tool to perform a operations . It is easy to use to changes than in git </p>
+<H1>Pull command is dangers command because it give conflict </H1>
 
 </p>
 
