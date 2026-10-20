@@ -64,6 +64,12 @@ Project team members will connect with git repository using URL.
 <h2>git log :</h2><p> It is used to check the info who changes the folder(commit histary</p>
 <h2>git rm <file name></h2><p> It is used to delete the file from working tree  </p>
 <h2>git commit -m "msg" && git push</h2><p>TO delete from centeral </p>
+<h2>git clone <repo url></h2><p> It is used to run existing repositorie </p>
+<h2>git pull :</h2><p>It is used to download only latest changes from central repo to local repo</p>
+<h2>git config --global user.<name or email> "name or email": </h2><p>It is used to config you name</p>
+<H1>How to push hole project ?</H1>
+<h1>git add . :</h1><p>It is used to push hole project after this command remaining all are same as adding a file</p>
+
 
 
 
