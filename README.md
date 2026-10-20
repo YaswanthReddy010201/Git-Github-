@@ -69,9 +69,15 @@ Project team members will connect with git repository using URL.
 <h2>git config --global user.<name or email> "name or email": </h2><p>It is used to config you name</p>
 <H1>How to push hole project ?</H1>
 <h1>git add . :</h1><p>It is used to push hole project after this command remaining all are same as adding a file</p>
-
-
-
+<p>We should not add the target file in github we need only src and  pom.xml files is required in github . To ignore that file add command in the .gitignore file  </p>
+<h2>.gitignore :</h2><p>It is used to specify files and folder to sikp from git operations
+EX:
+ .settings
+ .classpath
+  .target/    
+</p>
+<h1>Imp</h1>
+<p>If two developers working in same first we want see the latest code so we will pull before push if the conflict is accrued while pull resolve the conflict (junk is add to the code remove it)  is  and use push </p>
 
 
 
