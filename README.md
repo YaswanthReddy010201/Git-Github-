@@ -55,6 +55,14 @@ Project team members will connect with git repository using URL.
 <h2>git.push :</h2><p>It is used to push files from local to central repo </p>
 <h2>clear :</h2><p>It is used to clean the ternimal</p>
 <h2> touch file name</h2> <p>It is used to create a new file</p>
+<h2>git restore : <file name> </h2><p>It is used to discard changes in working directory .What ever changes made to file has be deleted .
+</p>
+<h5>If your file is in unstated it delete the contant </h5>
+<h5>If you stage the changes to the file ( if you added the changes in github file) by git add <file name> (it is useful to staged the unstated file)  command you also git restore --staged <filr name> to get the file from staged to unstaged </h5>
+<h1>git restore it depends on what the file status</h1>
+<p> After the changes down and the file is in staged to publish you local commits by using <h5>git commit -m "mease"</h5> and use <h5>git push</h5> to get changes to central commits    </p>
+
+
 
 
 
