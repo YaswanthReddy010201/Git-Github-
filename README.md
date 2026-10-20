@@ -61,6 +61,9 @@ Project team members will connect with git repository using URL.
 <h5>If you stage the changes to the file ( if you added the changes in github file) by git add <file name> (it is useful to staged the unstated file)  command you also git restore --staged <filr name> to get the file from staged to unstaged </h5>
 <h1>git restore it depends on what the file status</h1>
 <p> After the changes down and the file is in staged to publish you local commits by using <h5>git commit -m "mease"</h5> and use <h5>git push</h5> to get changes down in central commits    </p>
+<h2>git log :</h2><p> It is used to check the info who changes the folder(commit histary</p>
+<h2>git rm <file name></h2><p> It is used to delete the file from working tree  </p>
+<h2>git commit -m "msg" && git push</h2><p>TO delete from centeral </p>
 
 
 
